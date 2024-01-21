@@ -9,5 +9,6 @@ public class Main {
         System.out.println("hello-git");
         System.out.println("hello-git hello");
         System.out.println("hello dev4");
+        System.out.println("push test");
     }
 }
