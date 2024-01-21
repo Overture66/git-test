@@ -11,6 +11,6 @@ public class Main {
         System.out.println("hello dev4");
         System.out.println("push test");
         System.out.println("pull test");
-        System.out.println("pull test");
+        System.out.println("github test");
     }
 }
